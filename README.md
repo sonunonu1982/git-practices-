@@ -1,2 +1,2 @@
-# git-practices
+# git-practice
 practice for git 
