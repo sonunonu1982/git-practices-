@@ -1,0 +1,2 @@
+ development sample 1 >> samplefile1.txt
+echo  development sample 1
